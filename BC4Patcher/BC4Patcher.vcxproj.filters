@@ -57,9 +57,21 @@
     <Image Include="..\..\..\..\Downloads\icon.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="res\pirate.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Untitled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <Media Include="..\..\..\..\Downloads\MyFile.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\MyFile.wav">
       <Filter>Resource Files</Filter>
     </Media>
   </ItemGroup>

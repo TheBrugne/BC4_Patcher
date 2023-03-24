@@ -145,9 +145,13 @@
     <Image Include="..\..\..\..\Downloads\pirate.ico" />
     <Image Include="..\..\..\..\Downloads\pngegg.bmp" />
     <Image Include="..\..\..\..\Downloads\skull.ico" />
+    <Image Include="res\icon.ico" />
+    <Image Include="res\pirate.ico" />
+    <Image Include="res\Untitled.bmp" />
   </ItemGroup>
   <ItemGroup>
     <Media Include="..\..\..\..\Downloads\MyFile.wav" />
+    <Media Include="res\MyFile.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
