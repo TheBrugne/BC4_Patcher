@@ -3,7 +3,7 @@ Patcher for Beyond Compare 4
 
 Launch BC4Patcher.exe (in admin mode if write access to the file requires admin privileges)
 
-Select Beyond Compare 4 exe file.
+Select Beyond Compare 4 exe file (default: C:/Program Files/Beyond Compare 4/BCompare.exe)
 
 Press Patch
 
