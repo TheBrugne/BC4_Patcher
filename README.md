@@ -1,5 +1,5 @@
 # BC4_Patcher
-Patcher for Beyond Compare 4
+Patcher for Beyond Compare 4 (original discussion:  https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67)
 
 Launch BC4Patcher.exe (in admin mode if write access to the file requires admin privileges)
 
